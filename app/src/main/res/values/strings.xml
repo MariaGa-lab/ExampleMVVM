@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExampleMVVM</string>
+    <string name="numero_uno">Digite primer número</string>
+    <string name="numero_dos">Digite_segundo nùmero</string>
+</resources>
